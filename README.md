@@ -1,6 +1,8 @@
 # 2022_SummerVacation
 게임 이름 : TileVania
+
 참고한 사이트 : Udemy C# Unity 게임 개발자 2D https://www.udemy.com/course/best-c-unity-2d/
+
 장르 : 2D 플랫포머
 
 구현한 기능 : 

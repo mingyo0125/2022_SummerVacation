@@ -3,6 +3,8 @@
 
 참고한 사이트 : Udemy C# Unity 게임 개발자 2D https://www.udemy.com/course/best-c-unity-2d/
 
+2022 여름방학에 진행한 개인 프로젝트 입니다.
+
 장르 : 2D 플랫포머
 
 구현한 기능 : 
